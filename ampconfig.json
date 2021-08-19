@@ -1,0 +1,18 @@
+{
+  "dataServiceGeneratorVersion": "0.9.0",
+  "appInfo": {
+    "name": "My app",
+    "description": "",
+    "version": "ask9ns55",
+    "id": "cks7pygvb11638431bs60q9y0zne",
+    "url": "https://app.amplication.com/cks7pygvb11638431bs60q9y0zne",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cks7pygvb11638431bs60q9y0zne"
+    }
+  }
+}

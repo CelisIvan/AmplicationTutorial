@@ -1,0 +1,2 @@
+class SectionUpdateInput {}
+export { SectionUpdateInput };
