@@ -1,0 +1,2 @@
+class SectionCreateInput {}
+export { SectionCreateInput };
